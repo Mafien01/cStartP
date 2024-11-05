@@ -4,24 +4,24 @@
 }
 
 :root {
-  --bg: #1a1b26;
-  --fg: #c0caf5;
-  --black: #15161e;
-  --red: #f7768e;
-  --green: #9ece6a;
-  --yellow: #e0af68;
-  --blue: #7aa2f7;
-  --purple: #bb9af7;
-  --cyan: #7dcfff;
-  --light-gray: #a9b1d6;
-  --gray: #414868;
+  --bg: #282828;
+  --fg: #fbf1c7;
+  --black: #1d2021;
+  --red: #cc241d;
+  --green: #98971a;
+  --yellow: #d79921;
+  --blue: #458588;
+  --purple: #b16286;
+  --cyan: #83a598;
+  --light-gray: #665c54;
+  --gray: #504945;
 }
 
 html {
   font-family: "Hack", monospace;
   text-align: center;
   color: var(--fg);
-  background-color: var(--gray);
+  background-color: var(--bg);
   /* background-size: cover; */
   /* background-position: center; */
 }
@@ -86,7 +86,7 @@ body {
   /* line-height: 0.5rem; */
   box-sizing: border-box;
   padding: 1rem;
-  background-color: rgba(21, 22, 30, 0.9);
+  background-color: rgba(60, 56, 54, 0.2);
   border: 1px hidden var(--fg);
   border-radius: 15px;
   text-align: left;
