@@ -23,7 +23,7 @@ export default [
     items: {
       Youtube: "https://www.youtube.com/",
       Twitch: "https://twitter.com",
-      Leetcode: "https://leetcode.com",
+      Reddit: "https://www.reddit.com/",
     },
   },
   {
@@ -32,7 +32,7 @@ export default [
     items: {
       Mail: "https://mail.proton.me/",
       ChatGpt: "https://chatgpt.com/",
-      Reddit: "https://www.reddit.com/",
+      Leetcode: "https://leetcode.com",
     },
   },
 ];
