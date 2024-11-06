@@ -22,7 +22,7 @@ export default [
     color: "red",
     items: {
       Youtube: "https://www.youtube.com/",
-      Twitch: "https://twitter.com",
+      Twitch: "https://www.twitch.tv/",
       Reddit: "https://www.reddit.com/",
     },
   },
