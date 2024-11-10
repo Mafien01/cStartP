@@ -6,7 +6,16 @@
     <link rel="stylesheet" type="text/css" href="styles/main.css" />
   </head>
   <body id="body">
-    <!-- <header class="status-bar"></header> -->
+    <script>
+      window.addEventListener("DOMContentLoaded", (event) => {
+        setTimeout(() => {
+          document.getElementById("input").focus();
+        }, 100);
+      });
+    </script>
+
+    <header class="status-bar"></header>
+    <!-- Затычка -->
     <div class="pad-terminal">
       <div class="scrollable">
         <div id="terminal">
